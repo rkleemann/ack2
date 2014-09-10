@@ -1,5 +1,10 @@
 History file for ack.  http://beyondgrep.com/
 
+NEXT
+====================================
+[ENHANCEMENTS]
+ack now supports --ignore-dir=match:....  Thanks, Ailin Nemui! (GitHub ticket #42)
+
 2.14    Wed Sep  3 22:48:00 CDT 2014
 ====================================
 [FIXES]
